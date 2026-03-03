@@ -363,7 +363,7 @@ When `time_to_die` barely exceeds `time_to_eat`, any scheduling delay is fatal. 
 
 ## Author
 
-**CHIKI Badreddine** -- bchiki@student.42.fr
+**CHIKI Badreddine** -- [GitHub](https://github.com/oCHIKIo) | [LinkedIn](https://www.linkedin.com/in/chiki-badreddine-91b974244)
 
 Implementation, architecture, documentation, and technical writing.
 
