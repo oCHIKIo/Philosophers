@@ -361,6 +361,14 @@ When `time_to_die` barely exceeds `time_to_eat`, any scheduling delay is fatal. 
 
 ---
 
+## Author
+
+**CHIKI Badreddine** -- bchiki@student.42.fr
+
+Implementation, architecture, documentation, and technical writing.
+
+---
+
 <p align="center">
   Developed as part of the <a href="https://42.fr">42 school</a> curriculum.
 </p>
