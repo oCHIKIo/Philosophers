@@ -10,12 +10,14 @@
   <em>"The formulation of a problem is often more essential than its solution." -- Albert Einstein</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-00599C?style=flat&logo=c" alt="C"/>
-  <img src="https://img.shields.io/badge/Standard-C99-blue" alt="C99"/>
-  <img src="https://img.shields.io/badge/Threads-POSIX-orange" alt="POSIX Threads"/>
-  <img src="https://img.shields.io/badge/School-42-000000?style=flat" alt="42"/>
-</p>
+<div align="center">
+
+[![42 School](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
+[![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Norminette](https://img.shields.io/badge/Norminette-Passing-success?style=for-the-badge)](https://github.com/42School/norminette)
+[![License](https://img.shields.io/badge/License-42-blue?style=for-the-badge)](LICENSE)
+
+</div>
 
 ---
 
